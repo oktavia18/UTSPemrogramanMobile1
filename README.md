@@ -8,10 +8,9 @@
 | **Mata Kuliah**    |     Pemrograman Mobile     |
 | **Dosen Pengampu** | Doni Maulana,  S.Kom, M.M.S.I |
 
-![image](https://github.com/user-attachments/assets/469c9e0e-b459-443d-bda7-830659e75e3b)
 
 ## ARABICCLUB
-Aplikasi ini bertujuan untuk membantu pengguna dalam mengakses bacaan doa sehari-hari dalam format yang mudah diakses dan dipahami.
+Aplikasi ini dirancang untuk membantu pengguna belajar kosakata Arab dengan gambar dari kategori spesifik, pengguna belajar kosakata dalam konteks nyata, memudahkan pemahaman dan pengaplikasian dalam situasi sehari-hari. 
 ### Fitur Utama:
 1. ``Splash Screen(Halaman Pembuka)``
 - Tampilan logo selama 3 detik untuk memulai   ke halaman beranda.
